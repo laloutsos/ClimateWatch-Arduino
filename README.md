@@ -45,10 +45,6 @@ Climate Watch is a smart system that monitors temperature and humidity using an 
 | 3      | Room Temperature |
 | Up/Down | Navigation |
 
-## 🚀 Future Improvements
-- 🔗 **WiFi/Bluetooth integration** for remote data monitoring
-- 📱 **Mobile app** for real-time notifications
-
 
 ## 🤝 Contributing
 Feel free to fork this repository, create pull requests, or suggest improvements in the Issues section.
