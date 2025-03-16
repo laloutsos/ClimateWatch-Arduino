@@ -1,5 +1,4 @@
-# ClimateWatch-Arduino
-# 🌡️ Climate Watch - Arduino Project
+# 🌡️ Climate Watch - Arduino 
 
 ## 📌 Overview
 Climate Watch is a smart system that monitors temperature and humidity using an **Arduino**, **DHT11 sensor**, **DS3231 RTC module**, **LCD display**, and **IR remote control**. It allows users to view real-time data and control the display with an IR remote.
