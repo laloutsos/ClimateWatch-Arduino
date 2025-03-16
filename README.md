@@ -43,7 +43,6 @@ Climate Watch is a smart system that monitors temperature and humidity using an 
 | 1      | Thermistor Temperature |
 | 2      | Humidity Display |
 | 3      | Room Temperature |
-| Up/Down | Navigation |
 
 
 ## 🤝 Contributing
